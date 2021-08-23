@@ -1,1 +1,4 @@
-#0x00-shell_basics
+# Shell projects
+- shell basics
+- shell permission
+- shell redirection
